@@ -1,0 +1,1 @@
+nohup python main.py --select_orthogonal_type spsa --num_samples 2 --attack_type targeted >> log0724_tar_iter64_spsa_size0e01.log 2>&1 &
